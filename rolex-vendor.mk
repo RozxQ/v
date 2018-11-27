@@ -2401,6 +2401,7 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     ims \
     imssettings \
+    ColorControl \
     CNEService \
     com.qualcomm.location \
     qcrilmsgtunnel \
